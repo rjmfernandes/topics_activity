@@ -117,7 +117,7 @@ python3 check-topic-activity.py
 ```
 
 - Let it run a couple of iterations and see the increase each last minute.
-- The stop one of the connectors and see how increase reduces.
+- Then stop one of the connectors and see how the ioit increases less.
 - Stop the other connector and check it reduces more.
 - Let it run a couple of iterations with zero increase.
 - Start connectors back and confirm increase is measured.
